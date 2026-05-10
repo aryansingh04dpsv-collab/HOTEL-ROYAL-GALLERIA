@@ -1,1 +1,1 @@
-:{"name":"hotel-royal-galleria","version":"1.0.0","scripts":{"start":"ts-node HOTEL.TS"}
+{ "name": "hotel-royal-galleria", "version": "1.0.0", "scripts": { "build": "tsc", "start": "ts-node HOTEL.TS" } }
